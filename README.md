@@ -48,7 +48,42 @@ https://github.com/Francesco-ds/Mobile-Robotics/assets/58468024/03033d52-d1e0-4d
   self.csv_file_path = path_name
   ```
   
-- Run the scene on unity and run the map_following.py to see your robot moving
+- Run the scene on unity and run the map_following.py to see your robot moving (video is sped up)
 
-[new_use_case_1.webm](https://github.com/Francesco-ds/Mobile-Robotics/assets/58468024/42e7a908-bbd3-4a1c-90c8-7dd97dd6cd01)
+ 
+
+https://github.com/Francesco-ds/Mobile-Robotics/assets/58468024/fc15cbbf-8ddd-4368-9682-fef73040a6be
+
+
+
+- Case 2:
+  
+Path to follow:
+
+
+https://github.com/Francesco-ds/Mobile-Robotics/assets/58468024/fea2e2bc-6205-48f9-a5a7-fe92a69bc079
+
+
+Sped up video:
+
+
+
+https://github.com/Francesco-ds/Mobile-Robotics/assets/58468024/b3e7932a-74fd-4c69-a679-a1f62b055453
+
+
+- Case 3
+
+Path to follow
+
+
+https://github.com/Francesco-ds/Mobile-Robotics/assets/58468024/6b2b8882-0671-4e78-acc1-59ce1b709ee7
+
+Sped up video:
+
+
+
+https://github.com/Francesco-ds/Mobile-Robotics/assets/58468024/0a851f77-ce79-438e-add8-f62871ae9af3
+
+
+
 
