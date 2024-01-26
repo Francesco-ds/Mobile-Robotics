@@ -26,7 +26,7 @@ def assign_value_horizontal(number):
 #vertical mapping 
 def assign_value_vertical(number):
     lower_bound_positive = 0.3125 
-    lower_bound_negative = -0.3126
+    lower_bound_negative = -0.6876
     interval = 1.0
 
     if number >= lower_bound_positive:
